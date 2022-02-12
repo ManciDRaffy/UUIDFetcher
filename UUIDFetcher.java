@@ -1,4 +1,4 @@
-package de.laudytv.lobbysystem.util;
+//package
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
